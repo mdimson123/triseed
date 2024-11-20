@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Unhappy path</description>
+   <name>Login invalid user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>18140d99-bc94-4571-a36c-1fdd80bc736a</testCaseGuid>
+</TestCaseEntity>
