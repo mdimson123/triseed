@@ -55,7 +55,7 @@ WebUI.setText(findTestObject('Object Repository/Editting Announcement/Page_Pipel
     'facebook.com')
 
 WebUI.setText(findTestObject('Object Repository/Editting Announcement/Page_Pipeline Marketing/input_Start Date_startDate'), 
-    '11232024')
+    '23112024')
 
 WebUI.setText(findTestObject('Object Repository/Editting Announcement/Page_Pipeline Marketing/input_Start Time_startTime'), 
     '11542')

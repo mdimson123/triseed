@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Ad Calendar</name>
+   <name>Announcement</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,40 +10,40 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>25ba962d-3ef9-49e9-881e-481537214c4f</testSuiteGuid>
+   <testSuiteGuid>d3987b4d-edd6-4c03-a841-edc4867df868</testSuiteGuid>
    <testCaseLink>
-      <guid>f165bbdd-83f4-4e1e-9986-1de79e9897da</guid>
+      <guid>2d07c1aa-8c26-4c7c-b03c-ecb9c8cf8969</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Ad Calendar/TC_001_Ad Campaign</testCaseId>
+      <testCaseId>Test Cases/Marketing Dashboard Testing/Adding Announcement</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>c26fbe89-6d8b-46c0-87ba-114cff4d9779</guid>
+      <guid>890e3474-c71c-4ae0-8a55-8104a0e96dd0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Ad Calendar/TC_002_Edit Campaign</testCaseId>
+      <testCaseId>Test Cases/Marketing Dashboard Testing/Deleting Announcement</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>5978b7d5-d43e-4cd9-bc2e-c24399bbe1a7</guid>
+      <guid>8c7dffa3-17a0-4503-bf6d-f0246f81e422</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Ad Calendar/TC_003_Delete</testCaseId>
+      <testCaseId>Test Cases/Marketing Dashboard Testing/View Announcement Details</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>5d846b9e-cac8-40c5-8208-8645135846cb</guid>
+      <guid>0b1f0f7a-50e9-4519-bc22-958b893757ae</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Ad Calendar/TC_004_Drag</testCaseId>
+      <testCaseId>Test Cases/Marketing Dashboard Testing/Editting Announcement</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>cb29a8e5-39d4-46d9-8e5b-dd2e5ac8e8d5</guid>
+      <guid>c1901a37-43ca-4250-802c-061b11a46792</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Ad Calendar/TC_005_Extend</testCaseId>
+      <testCaseId>Test Cases/Marketing Dashboard Testing/Show 10,20,50,100 Announcement</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
