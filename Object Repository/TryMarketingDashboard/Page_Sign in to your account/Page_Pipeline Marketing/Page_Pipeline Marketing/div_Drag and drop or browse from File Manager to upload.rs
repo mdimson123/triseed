@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Drag and drop or browse from File Manager to upload</name>
+   <tag></tag>
+   <elementGuidId>d6585496-0a00-49d8-9efc-3efd20607a16</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.h-full.flex-col.items-center.justify-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/form/div[2]/div/div[4]/button/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1fe328cd-b755-4296-97d2-07163031260f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex h-full flex-col items-center justify-center</value>
+      <webElementGuid>8f91b7a8-9696-4c8e-a1e7-0d09f366272e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Drag and drop or browse from File Manager to upload</value>
+      <webElementGuid>fb014204-da81-48aa-a9a4-c0c0054a1290</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radix-:r23:&quot;)/form[@class=&quot;flex flex-col gap-y-0&quot;]/div[@class=&quot;max-h-[calc(100vh-18rem)] overflow-y-scroll&quot;]/div[@class=&quot;grid grid-cols-12 gap-x-6 gap-y-4 !px-5 !pb-5&quot;]/div[@class=&quot;col-span-7 col-start-1&quot;]/button[@class=&quot;relative h-52 w-full rounded !bg-[#F8FAFB]&quot;]/div[@class=&quot;h-52 w-full rounded&quot;]/div[@class=&quot;absolute top-0 left-0 h-full w-full&quot;]/div[@class=&quot;flex h-full flex-col items-center justify-center&quot;]</value>
+      <webElementGuid>7225b5d7-e7a1-4409-b2d0-2e20564c4d08</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:r23:']/form/div[2]/div/div[4]/button/div/div/div</value>
+      <webElementGuid>c8354334-947b-4d2f-bb26-60b003b942d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sequence'])[1]/following::div[4]</value>
+      <webElementGuid>e5b09d86-c03c-4d29-af62-841f5623269e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Placement'])[1]/following::div[5]</value>
+      <webElementGuid>7c50d981-40ca-417a-8ea9-57fd51c96aa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ad Type'])[1]/preceding::div[2]</value>
+      <webElementGuid>694c143c-59d6-4974-87fd-b556f7b5f7ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/div/div</value>
+      <webElementGuid>418e168b-99b2-4b65-94bd-a3ca52b2b59f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Drag and drop or browse from File Manager to upload' or . = 'Drag and drop or browse from File Manager to upload')]</value>
+      <webElementGuid>d15ad63c-ae05-4b8e-8c4d-c5ac6853fabd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

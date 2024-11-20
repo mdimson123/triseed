@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Announcement</name>
+   <tag></tag>
+   <elementGuidId>2b4d2a40-d3f7-47f3-b1ac-eb7afa7b7838</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/a[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>63c74dd6-1438-4d02-b7bc-8626fba9c4d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>group relative items-center px-[25px] py-[12px] font-bold text-neutral-600 transition ease-in-out hover:bg-background after:absolute after:left-0 after:top-0 after:h-full after:w-[8px] after:translate-x-[-8px] after:rounded-br-[6px] after:rounded-tr-[6px] after:bg-red-600 after:transition after:content-[&quot;&quot;]</value>
+      <webElementGuid>0c958e85-e38d-4a25-a336-2c0a6a50e69a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/announcement</value>
+      <webElementGuid>f1baaea1-1415-4311-b3e2-9bd29fe9221b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Announcement</value>
+      <webElementGuid>f8695ead-8ae0-4b42-b711-de0ad7883c3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;flex h-full min-h-screen shrink-0 transition-all duration-300 w-[207px] border-r border-slate-200 bg-white&quot;]/div[@class=&quot;flex h-full flex-col&quot;]/a[@class=&quot;group relative items-center px-[25px] py-[12px] font-bold text-neutral-600 transition ease-in-out hover:bg-background after:absolute after:left-0 after:top-0 after:h-full after:w-[8px] after:translate-x-[-8px] after:rounded-br-[6px] after:rounded-tr-[6px] after:bg-red-600 after:transition after:content-[&quot;&quot;]&quot;]</value>
+      <webElementGuid>afc70e11-b2eb-4963-b691-25fc57532ac1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/a[3]</value>
+      <webElementGuid>23f5a18e-efcb-43fc-96b0-7f71f102ef62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ad Calendar'])[1]/following::a[1]</value>
+      <webElementGuid>24ed2260-c93a-4c88-945c-910248851fc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::a[2]</value>
+      <webElementGuid>bc0abbc0-5132-4ab2-bc3d-3b9abefc74b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LP'])[1]/preceding::a[1]</value>
+      <webElementGuid>805e9b83-81e3-4067-adf7-f5869678bcf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/announcement')]</value>
+      <webElementGuid>a91baf3b-3333-4b1b-af84-693af5c56101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+      <webElementGuid>92941b72-6228-4c63-a38e-ca13c1639631</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/announcement' and (text() = 'Announcement' or . = 'Announcement')]</value>
+      <webElementGuid>44b66c3e-ed67-46f4-8145-2458ed8971d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

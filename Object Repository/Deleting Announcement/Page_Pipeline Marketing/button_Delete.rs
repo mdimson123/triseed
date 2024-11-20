@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Delete</name>
+   <tag></tag>
+   <elementGuidId>cdc187c6-61e1-4855-9a6d-4531cbf229e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div/div/table/tbody/tr/td[5]/div/button[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d997b201-fa8b-45e7-9d9e-988f95e499b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-[#f0f0f0] border border-solid border-[#ccc] text-[#333] px-2 py-1 whitespace-nowrap cursor-pointer hover:bg-[#e0e0e0]</value>
+      <webElementGuid>29afc593-7070-46a0-9e66-2d58c25bff1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>7cc606b3-6570-4e7a-b6ed-beac754fd232</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;flex h-full min-h-screen grow flex-col&quot;]/div[@class=&quot;flex size-full grow flex-col&quot;]/div[@class=&quot;w-full px-[30px] py-10&quot;]/div[@class=&quot;announcement-list container&quot;]/table[1]/tbody[1]/tr[1]/td[5]/div[@class=&quot;flex flex-nowrap justify-center gap-x-1.5&quot;]/button[@class=&quot;bg-[#f0f0f0] border border-solid border-[#ccc] text-[#333] px-2 py-1 whitespace-nowrap cursor-pointer hover:bg-[#e0e0e0]&quot;]</value>
+      <webElementGuid>0b5d1b59-2b80-46d1-bcd9-010c7720eaf5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div/table/tbody/tr/td[5]/div/button[3]</value>
+      <webElementGuid>4f83e779-26eb-4d1e-8e2c-0710221fc9bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::button[1]</value>
+      <webElementGuid>aae6813b-3888-4761-83b3-f14a3ccad634</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[1]/following::button[2]</value>
+      <webElementGuid>a670c21e-50bc-47e9-80b0-12771385c40e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test automation'])[1]/preceding::button[1]</value>
+      <webElementGuid>cba92abb-234d-437a-8b3e-fa3e30ead982</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ended'])[1]/preceding::button[1]</value>
+      <webElementGuid>4e7bd068-c7bb-49d5-9bf7-b529f5beed44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Delete']/parent::*</value>
+      <webElementGuid>3a54a6f9-df5e-42a3-b5b3-26d908129a23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]</value>
+      <webElementGuid>28da8661-d732-4667-9723-68f0b0e38359</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Delete' or . = 'Delete')]</value>
+      <webElementGuid>e573a652-da76-4059-97f1-53c2e8640857</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

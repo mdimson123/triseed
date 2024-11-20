@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Show_inline-flex items-center justif_e91906</name>
+   <tag></tag>
+   <elementGuidId>5d2bba68-e0c5-4129-b2af-b3dfa523ff85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div/div/div/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4234dc6a-4684-46b2-b031-95a567654491</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 text-primary-foreground size-[42px] rounded-full bg-[#002a86] p-[8px] shadow-lg hover:bg-[#042367]</value>
+      <webElementGuid>6ef9ebc4-ff30-4bb4-ac57-f1417671c359</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;flex h-full min-h-screen grow flex-col&quot;]/div[@class=&quot;flex size-full grow flex-col&quot;]/div[@class=&quot;w-full px-[30px] py-10&quot;]/div[@class=&quot;announcement-list container&quot;]/div[@class=&quot;toolbar&quot;]/div[@class=&quot;right-side&quot;]/button[@class=&quot;inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 text-primary-foreground size-[42px] rounded-full bg-[#002a86] p-[8px] shadow-lg hover:bg-[#042367]&quot;]</value>
+      <webElementGuid>b092a060-95c7-4c94-a51d-4bd58b8ab7d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div/div/div[2]/button</value>
+      <webElementGuid>6eff80f2-3729-4299-a03e-6fab6f4465de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Announcements'])[1]/following::button[1]</value>
+      <webElementGuid>455232d2-7ecc-4bfe-ac8c-467aba505060</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Announcement'])[2]/preceding::button[1]</value>
+      <webElementGuid>e59789df-ab87-4370-8523-3145de50c3a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start'])[1]/preceding::button[1]</value>
+      <webElementGuid>d83ad15e-4f5b-4af1-9256-e9ac5687adb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/button</value>
+      <webElementGuid>bc5704c4-d972-4fcf-8f3c-0eb2909f17c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

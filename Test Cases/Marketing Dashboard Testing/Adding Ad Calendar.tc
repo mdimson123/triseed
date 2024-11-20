@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Adding Ad Calendar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>08c8092d-0250-4d2c-8c57-47c80ba74940</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0fc25fe9-889e-4747-bd35-7a1a5b3be206</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\lhander\\\\Downloads\\\\tshirt.jpeg\r\n'</defaultValue>
+      <description></description>
+      <id>0fc25fe9-889e-4747-bd35-7a1a5b3be206</id>
+      <masked>false</masked>
+      <name>File</name>
+   </variable>
+</TestCaseEntity>

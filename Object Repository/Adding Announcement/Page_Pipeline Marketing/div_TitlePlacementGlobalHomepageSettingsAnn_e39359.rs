@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_TitlePlacementGlobalHomepageSettingsAnn_e39359</name>
+   <tag></tag>
+   <elementGuidId>75a07a15-c7fd-4762-a43d-e80338e178b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='radix-:rd:']/form/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6efb0578-5b5a-467a-b648-b3feb07007ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grid grid-cols-12 gap-x-6 gap-y-4 !px-5 !pb-5</value>
+      <webElementGuid>1df901b1-8c72-411c-890b-9c6c45968243</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TitlePlacementGlobalHomepageSettingsAnnouncement Description18/150Contact NumberURL LinkStart DateStart TimeNotes:All Day</value>
+      <webElementGuid>9f889dfc-21b1-4dae-86ee-0feb250a932c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radix-:rd:&quot;)/form[@class=&quot;flex flex-col gap-y-0&quot;]/div[@class=&quot;max-h-[calc(100vh-18rem)] overflow-y-scroll&quot;]/div[@class=&quot;grid grid-cols-12 gap-x-6 gap-y-4 !px-5 !pb-5&quot;]</value>
+      <webElementGuid>610a6070-6336-46d8-ba54-df22e0ca8f7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:rd:']/form/div[2]/div</value>
+      <webElementGuid>2620f2dd-387e-441c-ac38-03322ba159c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Announcements'])[1]/following::div[2]</value>
+      <webElementGuid>a1031af6-3c17-4f2c-9382-c2b0c25b3226</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[10]/following::div[5]</value>
+      <webElementGuid>cfe07dd1-72c5-4033-85c5-36725de49900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div</value>
+      <webElementGuid>e2821e78-435c-41ca-8481-f05b2c5d474c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'TitlePlacementGlobalHomepageSettingsAnnouncement Description18/150Contact NumberURL LinkStart DateStart TimeNotes:All Day' or . = 'TitlePlacementGlobalHomepageSettingsAnnouncement Description18/150Contact NumberURL LinkStart DateStart TimeNotes:All Day')]</value>
+      <webElementGuid>96b933a2-d1b4-4f1a-8d64-311d75033d40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

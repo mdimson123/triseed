@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Start Time_absolute inset-0 rounded-full transition duration-500 beforeabsolute beforeleft-1 beforetop-1 beforesize-6 beforerounded-full beforebg-white beforetransition beforeduration-500 beforecontent- peer-checked</name>
+   <tag></tag>
+   <elementGuidId>49fb686d-a2e2-4acf-afc7-f4e3d6c1a50e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='radix-:rp:']/form/div[2]/div/div[9]/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c83864b0-e2bf-4518-a611-d00407767121</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>absolute inset-0 rounded-full transition duration-500 before:absolute before:left-1 before:top-1 before:size-6 before:rounded-full before:bg-white before:transition before:duration-500 before:content-[''] peer-checked:bg-blue-500 peer-checked:before:translate-x-6 peer-focus:shadow-[0_0_1px_#2196f3] bg-gray-300</value>
+      <webElementGuid>011e4521-c44d-4a3e-968c-db99680dc712</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radix-:rp:&quot;)/form[@class=&quot;flex flex-col gap-y-0&quot;]/div[@class=&quot;max-h-[calc(100vh-18rem)] overflow-y-scroll&quot;]/div[@class=&quot;grid grid-cols-12 gap-x-6 gap-y-4 !px-5 !pb-5&quot;]/div[@class=&quot;col-span-5 flex gap-x-2 row-start-6&quot;]/label[@class=&quot;relative inline-block h-8 w-14&quot;]/span[@class=&quot;absolute inset-0 rounded-full transition duration-500 before:absolute before:left-1 before:top-1 before:size-6 before:rounded-full before:bg-white before:transition before:duration-500 before:content-[''] peer-checked:bg-blue-500 peer-checked:before:translate-x-6 peer-focus:shadow-[0_0_1px_#2196f3] bg-gray-300&quot;]</value>
+      <webElementGuid>2c6a9855-9930-45b7-8236-e6376f412116</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:rp:']/form/div[2]/div/div[9]/label/span</value>
+      <webElementGuid>b6ea2973-4ca4-4a56-94b6-bf3797f3d1d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>473a04c7-3183-4e30-ad31-3e56ad8a32ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
