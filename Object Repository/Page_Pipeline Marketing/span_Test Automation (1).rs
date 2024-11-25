@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Test Automation (1)</name>
+   <tag></tag>
+   <elementGuidId>a22d2726-d213-4528-b551-820070c7f1eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div[2]/div[2]/div/div/div[2]/div[8]/div[2]/div[2]/div[1]/div[3]/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bc424ede-d4b0-4e1f-8f7a-1631ad71bc14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test Automation</value>
+      <webElementGuid>56073653-d057-474a-b5fd-3beeb8549670</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;flex h-full min-h-screen grow flex-col&quot;]/div[@class=&quot;flex size-full grow flex-col&quot;]/div[@class=&quot;w-full px-[30px] py-10&quot;]/div[@class=&quot;rbc-addons-dnd rbc-calendar&quot;]/div[@class=&quot;rbc-month-view&quot;]/div[@class=&quot;rbc-month-row&quot;]/div[@class=&quot;rbc-row-content&quot;]/div[@class=&quot;rbc-addons-dnd-row-body&quot;]/div[@class=&quot;rbc-row&quot;]/div[@class=&quot;rbc-row-segment&quot;]/div[@class=&quot;rbc-event important&quot;]/div[@class=&quot;rbc-addons-dnd-resizable&quot;]/div[@class=&quot;rbc-event-content&quot;]/div[@class=&quot;_container_1ra9z_5&quot;]/span[1]</value>
+      <webElementGuid>e180a37c-b331-41b6-b284-7972c10d5af8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[2]/div[10]/div[2]/div[2]/div/div[3]/div/div/div[2]/div/span</value>
+      <webElementGuid>9eb153d9-462b-48f9-b2b0-9b0b5045a254</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Automation'])[1]/following::span[1]</value>
+      <webElementGuid>8a234ffa-82da-4692-b556-957bcc9de7c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[3]/following::span[2]</value>
+      <webElementGuid>5bb04b36-4ea9-4058-8310-fdee1a768f21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='November'])[2]/preceding::span[1]</value>
+      <webElementGuid>60dd34b7-3fe6-4f17-acf3-6f0acf996a1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Note:'])[1]/preceding::span[2]</value>
+      <webElementGuid>b78e6c85-cb84-45b6-93e8-c6b34127a96e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div[2]/div[2]/div/div[3]/div/div/div[2]/div/span</value>
+      <webElementGuid>756a9838-051d-4673-aab3-475ad59a4fee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Test Automation' or . = 'Test Automation')]</value>
+      <webElementGuid>08d9762a-1043-417d-846e-2c95fce68dd3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

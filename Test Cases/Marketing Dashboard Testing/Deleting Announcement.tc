@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Deleting Announcement</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d7f9fb2a-21a5-4e45-87b9-1884b39e7556</testCaseGuid>
+</TestCaseEntity>

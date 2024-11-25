@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Show 10,20,50,100 Announcement</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4c93a2e1-28e3-4c80-b1b4-7547d193efd5</testCaseGuid>
+</TestCaseEntity>

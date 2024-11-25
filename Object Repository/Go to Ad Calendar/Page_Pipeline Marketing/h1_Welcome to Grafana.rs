@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Welcome to Grafana</name>
+   <tag></tag>
+   <elementGuidId>a1020121-b4ce-4e87-b6b6-8b6f63da947a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pageContent']/div[3]/div/div/div/div/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.css-vxdt2o</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>3a60e8b9-6005-4308-b3a7-efa2ea9f9e47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-vxdt2o</value>
+      <webElementGuid>0e2bf54c-212d-43c8-8074-e60395c58e8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Welcome to Grafana</value>
+      <webElementGuid>1b9256eb-c030-42a1-a697-cb2c0752814d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pageContent&quot;)/div[@class=&quot;css-17taakh&quot;]/div[@class=&quot;css-1pjpxv8&quot;]/div[@class=&quot;login-content-box css-odanoj&quot;]/div[@class=&quot;css-1yyz87g&quot;]/div[@class=&quot;css-1w4npsm&quot;]/h1[@class=&quot;css-vxdt2o&quot;]</value>
+      <webElementGuid>49f3585d-a4d3-4cb4-ba89-416e4f1a6376</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Go to Ad Calendar/Page_Pipeline Marketing/iframe_Lhander Pangan_grafana-iframe</value>
+      <webElementGuid>60d89d42-edea-4dee-b40b-e785b1153164</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pageContent']/div[3]/div/div/div/div/h1</value>
+      <webElementGuid>5e599ee5-a4f0-4dc3-858b-c98226df9915</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email or username'])[1]/preceding::h1[1]</value>
+      <webElementGuid>aff66d22-fee9-4af9-9f41-62a403288ce5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::h1[1]</value>
+      <webElementGuid>cca32e3f-25f6-4e36-8843-15204d0edfdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Welcome to Grafana']/parent::*</value>
+      <webElementGuid>073c7bd2-05fa-4f4b-86f9-b87fdea14221</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>7cd79d18-67e8-47ed-bc25-5dc2a980acc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Welcome to Grafana' or . = 'Welcome to Grafana')]</value>
+      <webElementGuid>341a44f0-53d8-43d2-9ca2-355df50c30b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

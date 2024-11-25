@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ad Calendar</name>
+   <tag></tag>
+   <elementGuidId>1b9b5cec-0cdd-4c44-bdb5-50b86a13f176</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/a[2]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f731358a-e0a4-4fc4-b0f5-f592e1e4b879</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ad Calendar</value>
+      <webElementGuid>10053b58-099a-4929-a3b3-502d3bf8b813</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;flex h-full min-h-screen shrink-0 transition-all duration-300 w-[207px] border-r border-slate-200 bg-white&quot;]/div[@class=&quot;flex h-full flex-col&quot;]/a[@class=&quot;group relative items-center px-[25px] py-[12px] font-bold text-neutral-600 transition ease-in-out hover:bg-background after:absolute after:left-0 after:top-0 after:h-full after:w-[8px] after:translate-x-[-8px] after:rounded-br-[6px] after:rounded-tr-[6px] after:bg-red-600 after:transition after:content-[&quot;&quot;]&quot;]/div[@class=&quot;flex items-center space-x-4&quot;]/span[1]</value>
+      <webElementGuid>874d8a98-1325-4848-90ce-e322c90239de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/a[2]/div/span</value>
+      <webElementGuid>4b1dfab5-0e1d-4838-b9ce-465e7be48ba7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::span[1]</value>
+      <webElementGuid>d111e52a-d32f-4721-9077-d44fe827eb02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Announcement'])[1]/preceding::span[1]</value>
+      <webElementGuid>4afef5ac-d3d8-47e1-9197-b25f1f9462b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LP'])[1]/preceding::span[3]</value>
+      <webElementGuid>5b1d723a-f8b4-45e0-b1cf-8ba2273969db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ad Calendar']/parent::*</value>
+      <webElementGuid>50fd6f3e-b6d3-4571-844b-f865d3174c08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div/span</value>
+      <webElementGuid>3aeeba78-3342-4faa-9460-c7720cefd024</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Ad Calendar' or . = 'Ad Calendar')]</value>
+      <webElementGuid>2f34de82-0d34-47d8-8549-28fb30bb73a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button___button_1ozih_78</name>
+   <tag></tag>
+   <elementGuidId>f538e5aa-f2cb-425c-ba4e-50c2a6f5954f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div[2]/div[2]/div/div/div[2]/div[9]/div[4]/button[2]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>af346f30-5b57-4df0-a4a7-7eb8955a6c2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_button_1ozih_78</value>
+      <webElementGuid>f7ced80a-2ad4-48d7-94d3-90c58b1b53b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;flex h-full min-h-screen grow flex-col&quot;]/div[@class=&quot;flex size-full grow flex-col&quot;]/div[@class=&quot;w-full px-[30px] py-10&quot;]/div[@class=&quot;rbc-addons-dnd rbc-calendar&quot;]/div[@class=&quot;rbc-month-view&quot;]/div[@class=&quot;_editor_1ozih_1&quot;]/div[@class=&quot;_buttons_1ozih_78&quot;]/button[@class=&quot;_button_1ozih_78&quot;]</value>
+      <webElementGuid>a04e61ce-10d9-4014-9671-4288d60d876d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[2]/div[11]/div[4]/button[2]</value>
+      <webElementGuid>bd72ea5b-13c6-4134-a987-38121ed66b5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ㅤ'])[5]/following::button[2]</value>
+      <webElementGuid>48f432b0-b9f9-4a9d-a7df-07ecbf2c44fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ 5'])[1]/following::button[2]</value>
+      <webElementGuid>cb9b88a8-2df7-4e6a-abc3-0f2126956bc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div[4]/button[2]</value>
+      <webElementGuid>da39cb49-2199-4638-9688-dd8d72123173</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
