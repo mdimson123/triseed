@@ -57,13 +57,13 @@ WebUI.setText(findTestObject('Object Repository/Editting Announcement/Page_Pipel
     'facebook.com')
 
 WebUI.setText(findTestObject('Object Repository/Editting Announcement/Page_Pipeline Marketing/input_Start Date_startDate'), 
-    '23112024')
+    '23122024')
 
 WebUI.setText(findTestObject('Object Repository/Editting Announcement/Page_Pipeline Marketing/input_Start Time_startTime'), 
     '11542')
 
 WebUI.setText(findTestObject('Object Repository/Editting Announcement/Page_Pipeline Marketing/input_End Date_endDate'), 
-    '11242024')
+    '27122024')
 
 WebUI.setText(findTestObject('Object Repository/Editting Announcement/Page_Pipeline Marketing/input_End Time_endTime'), 
     '12592')

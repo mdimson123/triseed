@@ -23,15 +23,14 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://marketing-app.dev.porterpipe.com/')
 
-WebUI.setText(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_loginfmt (2)'), 'marben.dimson@porterpipe.com')
+WebUI.setText(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_loginfmt (2)'), 'lpangan@porterpipe.com')
 
 WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (2)'))
 
 WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/div_Enter password'))
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to your account/input_Enter password_passwd (2)'), 
-    'ayNFi9n8PEAw7J4CRxdLUA==')
-
+    'NZzDLtg5iKQPWnifuqC+Cw==')
 
 WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (2)'))
 
@@ -43,7 +42,7 @@ WebUI.click(findTestObject('Object Repository/DragObject/Page_Pipeline Marketing
 
 //WebUI.dragAndDropToObject(findTestObject('Object Repository/DragObject/Page_Pipeline Marketing/div_Qa Nov 4'), findTestObject(
 //        null))
-TestObject draggableObject = findTestObject('Object Repository/DragObject/Page_Pipeline Marketing/ExtendItem')
+TestObject draggableObject = findTestObject('Object Repository/DragObject/Page_Pipeline Marketing/DragItem')
 
 WebUI.dragAndDropByOffset(draggableObject, 250, 0)
 

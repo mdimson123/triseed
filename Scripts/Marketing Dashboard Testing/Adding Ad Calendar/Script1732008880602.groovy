@@ -49,14 +49,14 @@ WebUI.setText(findTestObject('Object Repository/Adding In Ad Calendar/Page_Pipel
 
 WebUI.click(findTestObject('Adding In Ad Calendar/Page_Pipeline Marketing/div_Drag and drop or browse from File Manager to upload'))
 
-WebUI.uploadFile(findTestObject('Object Repository/YourFileInputObject'), 'C:\\\\Users\\\\lhander\\\\Downloads\\\\tshirt.jpeg')
+WebUI.uploadFile(findTestObject('Object Repository/YourFileInputObject'), 'C:\\Users\\New User\\git\\triseed2\\UploadFiles\\Screenshot_1.png')
 
 WebUI.click(findTestObject('Object Repository/Adding In Ad Calendar/Page_Pipeline Marketing/button_Ad Type_h-6 flex-1 transition-all ho_429c80'))
 
 WebUI.click(findTestObject('Object Repository/Adding In Ad Calendar/Page_Pipeline Marketing/span_Drag and drop or browse from File Mana_afac7e'))
 
 WebUI.setText(findTestObject('Object Repository/Adding In Ad Calendar/Page_Pipeline Marketing/input_Start Date_startDate'), 
-    '11202024')
+    '25112024')
 
 WebUI.setText(findTestObject('Object Repository/Adding In Ad Calendar/Page_Pipeline Marketing/input_Start Time_startTime'), 
     '12001')

@@ -23,28 +23,29 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://marketing-app.dev.porterpipe.com/')
 
-WebUI.setText(findTestObject('Object Repository/Delete/Page_Sign in to your account/input_Sign in_loginfmt'), 'marben.dimson@porterpipe.com')
+WebUI.setText(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_loginfmt (2)'), 'lpangan@porterpipe.com')
 
-WebUI.click(findTestObject('Object Repository/Delete/Page_Sign in to your account/input_Sign in_idSIButton9'))
+WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (2)'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Delete/Page_Sign in to your account/input_Enter password_passwd'), 
-    'ayNFi9n8PEAw7J4CRxdLUA==')
+WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/div_Enter password'))
 
-WebUI.click(findTestObject('Object Repository/Delete/Page_Sign in to your account/input_Sign in_idSIButton9'))
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to your account/input_Enter password_passwd (2)'), 
+    'NZzDLtg5iKQPWnifuqC+Cw==')
 
-WebUI.click(findTestObject('Object Repository/Delete/Page_Sign in to your account/input_Do this to reduce the number of times_edee07'))
 
-WebUI.click(findTestObject('Object Repository/Delete/Page_Sign in to your account/input_Sign in_idSIButton9'))
+WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (2)'))
 
-WebUI.click(findTestObject('Object Repository/Delete/Page_Pipeline Marketing/a_Ad Calendar'))
+WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Do this to reduce the number of times_edee07 (2)'))
 
-WebUI.scrollToElement(findTestObject('Page_Pipeline Marketing/span_Test Automation (1)'), -50)
+WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (2)'))
 
-WebUI.click(findTestObject('Page_Pipeline Marketing/span_Test Automation (1)'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/DragObject/Page_Pipeline Marketing/a_Ad Calendar'))
 
-WebUI.click(findTestObject('Object Repository/Delete/Page_Pipeline Marketing/button___button_1ozih_78'))
+//WebUI.dragAndDropToObject(findTestObject('Object Repository/DragObject/Page_Pipeline Marketing/div_Qa Nov 4'), findTestObject(
+//        null))
+TestObject draggableObject = findTestObject('Object Repository/DragObject/Page_Pipeline Marketing/ExtendItem')
 
-WebUI.click(findTestObject('Object Repository/Delete/Page_Pipeline Marketing/button_Delete'))
+WebUI.dragAndDropByOffset(draggableObject, 250, 0)
 
-WebUI.click(findTestObject('Object Repository/Delete/Page_Pipeline Marketing/button_Close'))
+WebUI.click(findTestObject('Object Repository/DragObject/Page_Pipeline Marketing/div__rbc-row-segment'))
 

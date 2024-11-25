@@ -54,7 +54,7 @@ WebUI.setText(findTestObject('Object Repository/Adding Announcement/Page_Pipelin
 
 WebUI.setText(findTestObject('Object Repository/Adding Announcement/Page_Pipeline Marketing/input_URL Link_urlLink'), 'facebook.com')
 
-WebUI.setText(findTestObject('Adding Announcement/Page_Pipeline Marketing/input_Start Date_startDate'), '11212024')
+WebUI.setText(findTestObject('Adding Announcement/Page_Pipeline Marketing/input_Start Date_startDate'), '25122024')
 
 WebUI.setText(findTestObject('Adding Announcement/Page_Pipeline Marketing/input_Start Time_startTime'), '12122')
 
@@ -63,8 +63,6 @@ WebUI.setText(findTestObject('Object Repository/Adding Announcement/Page_Pipelin
 WebUI.waitForElementClickable(findTestObject('Adding Announcement/Page_Pipeline Marketing/button_Save'), 5)
 
 WebUI.click(findTestObject('Adding Announcement/Page_Pipeline Marketing/button_Save'))
-
-WebUI.delay(10)
 
 WebUI.click(findTestObject('Adding Announcement/Page_Pipeline Marketing/Page_Pipeline Marketing/button_Close'))
 

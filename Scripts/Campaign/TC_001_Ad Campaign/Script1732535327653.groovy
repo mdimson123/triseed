@@ -25,11 +25,11 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://marketing-app.dev.porterpipe.com/')
 
-WebUI.setText(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_loginfmt'), 'marben.dimson@porterpipe.com')
+WebUI.setText(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_loginfmt'), 'lpangan@porterpipe.com')
 
 WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to your account/input_Enter password_passwd'), 'ayNFi9n8PEAw7J4CRxdLUA==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to your account/input_Enter password_passwd'), 'NZzDLtg5iKQPWnifuqC+Cw==')
 
 WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Forgot my password_idSIButton9'))
 
@@ -56,7 +56,7 @@ WebUI.sendKeys(fileInput, filePath)
 
 WebUI.click(findTestObject('Object Repository/Page_Pipeline Marketing/button_Crop'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Pipeline Marketing/input_Start Date_startDate'), '20112024')
+WebUI.setText(findTestObject('Object Repository/Page_Pipeline Marketing/input_Start Date_startDate'), '25122024')
 
 WebUI.setText(findTestObject('Object Repository/Page_Pipeline Marketing/textarea_Notes_note'), 'test')
 
