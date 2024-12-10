@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add HEAT</name>
+   <tag></tag>
+   <elementGuidId>27e82cb9-fb4e-43c4-8cc7-4dae091a599c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>36d52f4e-4359-4e41-9b8e-95cf5573fe59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b070995a-8070-4953-84f4-fd4dcfceb06a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Add HEAT</value>
+      <webElementGuid>074b1b0d-d9a1-4460-b178-b923e6483991</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>group flex select-none items-center justify-center text-nowrap rounded-[8px] border border-solid border-[--color] text-center outline-none transition ease-in-out focus:border-[--dark-color] focus:shadow-[0_0_0_3px] [--color:theme(colors.navy.main)] [--dark-color:theme(colors.navy.dark)] focus:shadow-navy-main/40 bg-[--color] text-white hover:border-[--dark-color] hover:bg-[--dark-color] focus:bg-[--dark-color] data-[selected=&quot;true&quot;]:border-[--dark-color] data-[selected=&quot;true&quot;]:bg-[--dark-color] px-[8px] py-[3px] font-normal flex-1</value>
+      <webElementGuid>6f0bac26-a33d-41f2-9dfe-0ff616419711</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hovered</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b49db2bd-eeba-4dcb-bfd2-c2bb4a92c3a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add HEAT</value>
+      <webElementGuid>4cbe6d95-bf25-47ab-9211-f8eeb83e7986</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;heat-filters&quot;)/div[@class=&quot;w-full space-y-3 rounded-2xl border bg-white p-[20px] shadow&quot;]/div[@class=&quot;flex flex-col space-x-0 space-y-3 md:flex-row md:space-x-3 md:space-y-0&quot;]/button[@class=&quot;group flex select-none items-center justify-center text-nowrap rounded-[8px] border border-solid border-[--color] text-center outline-none transition ease-in-out focus:border-[--dark-color] focus:shadow-[0_0_0_3px] [--color:theme(colors.navy.main)] [--dark-color:theme(colors.navy.dark)] focus:shadow-navy-main/40 bg-[--color] text-white hover:border-[--dark-color] hover:bg-[--dark-color] focus:bg-[--dark-color] data-[selected=&quot;true&quot;]:border-[--dark-color] data-[selected=&quot;true&quot;]:bg-[--dark-color] px-[8px] py-[3px] font-normal flex-1&quot;]</value>
+      <webElementGuid>7f63bb0d-68fa-41e0-9caa-ce033bf3a6d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>f49b3aaa-9b53-405c-a736-83d4be90d5dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='heat-filters']/div/div[2]/button[2]</value>
+      <webElementGuid>47ee27fc-f129-48c1-b322-ee92abede423</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/following::button[1]</value>
+      <webElementGuid>6758ddd3-3aee-4357-9f00-1c644a0663f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marben Dimson'])[1]/following::button[4]</value>
+      <webElementGuid>bbc863c4-21d3-4f8d-9079-efb7bd95471b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transfer Packet'])[1]/preceding::button[1]</value>
+      <webElementGuid>230b14c1-e99d-45a7-80a5-cd34cbd57c45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Packet'])[1]/preceding::button[2]</value>
+      <webElementGuid>a066ae72-0d93-4061-814a-2d8acb2f017d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add HEAT']/parent::*</value>
+      <webElementGuid>c6f8c22f-98ad-4e13-a62e-1c5c8898e6c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]/button[2]</value>
+      <webElementGuid>56c003da-2305-415c-bfce-8a0b8e86fc35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Add HEAT' or . = 'Add HEAT')]</value>
+      <webElementGuid>a8be7e10-c595-42c3-9ebb-82aab836f120</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

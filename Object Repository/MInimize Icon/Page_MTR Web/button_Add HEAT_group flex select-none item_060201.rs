@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add HEAT_group flex select-none item_060201</name>
+   <tag></tag>
+   <elementGuidId>ec6efd8f-7825-412f-8028-f14c7eee4bb2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[22]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>735d155c-7764-4e16-95b5-cf383d4ca9e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e27564eb-fa0f-4f5e-992c-d4780b019913</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>group flex select-none items-center justify-center text-nowrap rounded-[8px] border border-solid text-center font-bold outline-none transition ease-in-out focus:shadow-[0_0_0_3px] [--color:theme(colors.navy.main)] [--dark-color:theme(colors.navy.dark)] focus:shadow-navy-main/40 border-transparent text-[--color] focus:border-transparent focus:text-[--dark-color] px-[16px] py-[8px] data-[pressed]:bg-navy-dark/20 hocus:bg-navy-dark/20 h-[43px]</value>
+      <webElementGuid>b73f1073-d511-4c77-bc9b-f1311997e6aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hovered</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5fe01fa9-07ca-4af3-b4f9-da60bdfa8c58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-focused</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>73cb1025-5779-432f-8d55-7e8319007c3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;fixed inset-0 z-[100000] flex min-h-full items-center justify-center overflow-y-auto bg-black/60 text-center p-0&quot;]/div[@class=&quot;flex size-full w-full overflow-hidden bg-white p-[12px] text-left align-middle shadow-xl outline-none max-w-full rounded-none&quot;]/section[@class=&quot;flex size-full flex-col outline-none&quot;]/div[@class=&quot;flex size-full flex-col overflow-y-hidden&quot;]/div[@class=&quot;justify-self-start border-b border-neutral-400 px-4 pb-2 pt-1&quot;]/div[@class=&quot;flex flex-col justify-between md:flex-row&quot;]/div[2]/div[@class=&quot;flex flex-col md:flex-row&quot;]/button[@class=&quot;group flex select-none items-center justify-center text-nowrap rounded-[8px] border border-solid text-center font-bold outline-none transition ease-in-out focus:shadow-[0_0_0_3px] [--color:theme(colors.navy.main)] [--dark-color:theme(colors.navy.dark)] focus:shadow-navy-main/40 border-transparent text-[--color] focus:border-transparent focus:text-[--dark-color] px-[16px] py-[8px] data-[pressed]:bg-navy-dark/20 hocus:bg-navy-dark/20 h-[43px]&quot;]</value>
+      <webElementGuid>115c9989-ce75-454d-b4f2-65a0ad01f2f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[22]</value>
+      <webElementGuid>62cd52bd-6a6f-44bc-9b96-9dd44d60ee8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add HEAT'])[2]/following::button[1]</value>
+      <webElementGuid>97c90334-72d6-4ac6-ad2c-e85d052ab30f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::button[3]</value>
+      <webElementGuid>051ae5b0-7e60-4277-85dd-0982e2de201c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From drafts'])[1]/preceding::button[3]</value>
+      <webElementGuid>a14436e9-0d92-4c27-be24-7a127d07be95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From computer'])[1]/preceding::button[4]</value>
+      <webElementGuid>721d1bae-898c-4ae1-8784-439a1c0b312c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div/button</value>
+      <webElementGuid>c2946c6b-5f25-4606-aaea-e231e05a8591</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>865fda92-fca5-4c9c-a48e-b40f79ad33c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>add btn</name>
+   <tag></tag>
+   <elementGuidId>15c96ffd-3167-4c5c-94f7-85c79050271e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/section/div/form/div[1]/div[1]/table/tbody/tr/td[6]/div/button[1]/svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>21186b74-459c-48c0-84c5-72d81cb49e33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e47ae312-46f0-4d46-b556-f43045355a6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>group flex select-none items-center justify-center text-nowrap rounded-[8px] border border-solid text-center outline-none transition ease-in-out focus:shadow-[0_0_0_3px] [--color:theme(colors.navy.main)] [--dark-color:theme(colors.navy.dark)] focus:shadow-navy-main/40 border-transparent text-[--color] focus:border-transparent focus:text-[--dark-color] font-normal data-[pressed]:bg-navy-dark/20 hocus:bg-navy-dark/20 p-[3px]</value>
+      <webElementGuid>e80e1637-886e-4865-a0b2-b258cba270d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-focused</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b31d44f5-3b89-4edc-9e5b-ce5724f07c4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;packet-details&quot;)/div[@class=&quot;flex size-full flex-col md:mr-3&quot;]/div[@class=&quot;flex flex-1 flex-col nice-scrollbar overflow-y-auto&quot;]/table[@class=&quot;w-full&quot;]/tbody[1]/tr[@class=&quot;last:border-b-none group min-h-[55px] border-b border-neutral-300 outline-none duration-75 hover:bg-blue-50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-blue-600&quot;]/td[@class=&quot;relative h-full min-h-[55px] items-center py-[5px] text-start font-normal w-[68px] px-[8px]&quot;]/div[@class=&quot;flex flex-row items-center justify-end&quot;]/button[@class=&quot;group flex select-none items-center justify-center text-nowrap rounded-[8px] border border-solid text-center outline-none transition ease-in-out focus:shadow-[0_0_0_3px] [--color:theme(colors.navy.main)] [--dark-color:theme(colors.navy.dark)] focus:shadow-navy-main/40 border-transparent text-[--color] focus:border-transparent focus:text-[--dark-color] font-normal data-[pressed]:bg-navy-dark/20 hocus:bg-navy-dark/20 p-[3px]&quot;]</value>
+      <webElementGuid>ebd524d7-bf36-4bc7-8145-2305c96c12df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[24]</value>
+      <webElementGuid>e02edca3-7084-41c5-9b5e-c46972f70399</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='packet-details']/div/div/table/tbody/tr/td[6]/div/button</value>
+      <webElementGuid>1c61c314-5121-4079-b5d9-1ad6ceec93c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COMPLETED'])[1]/following::button[2]</value>
+      <webElementGuid>d07b4947-272a-407f-a66c-75fc6976014b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DESCRIPTION'])[2]/following::button[2]</value>
+      <webElementGuid>f721233a-ec77-4514-ad26-f4f5f3651ba6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[2]/preceding::button[5]</value>
+      <webElementGuid>babedc25-6918-4cc1-819f-1eca80be37c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/div/button</value>
+      <webElementGuid>b13415d5-03b2-46fa-8e3d-35380a78885b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>5b7a9fe0-2a9f-431b-8544-4bd7b6c8d39d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

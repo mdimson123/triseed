@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Page</name>
+   <tag></tag>
+   <elementGuidId>0b32151a-f0a0-419b-84c6-be76e05cb761</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/section/div/div[1]/div/div[2]/button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>95987ff7-3c9a-4b86-98c2-f232d0292942</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>55da71c8-9730-4eb8-a0c6-50e76ef26d9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>group flex select-none items-center justify-center text-nowrap rounded-[8px] border border-solid text-center font-bold outline-none transition ease-in-out focus:shadow-[0_0_0_3px] [--color:theme(colors.navy.main)] [--dark-color:theme(colors.navy.dark)] focus:shadow-navy-main/40 border-transparent text-[--color] focus:border-transparent focus:text-[--dark-color] px-[16px] py-[8px] data-[pressed]:bg-navy-dark/20 hocus:bg-navy-dark/20</value>
+      <webElementGuid>d51e5ee4-3645-43e6-9057-26a7ebe2586b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hovered</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>82b8bdb7-683b-4d39-86fd-7b18cf5074e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-focused</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b3cd7034-f1f0-4e9a-965b-14c0fcaa5910</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Page</value>
+      <webElementGuid>2025b123-752c-4b50-b403-bb64a0d37c9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;fixed inset-0 z-[100000] flex min-h-full items-center justify-center overflow-y-auto bg-black/60 p-4 text-center&quot;]/div[@class=&quot;flex size-full w-full overflow-hidden rounded-[15px] bg-white p-[12px] text-left align-middle shadow-xl outline-none h-full max-w-[1350px] md:max-h-[85vh]&quot;]/section[@class=&quot;flex size-full flex-col outline-none&quot;]/div[@class=&quot;flex size-full flex-col overflow-y-hidden&quot;]/div[@class=&quot;justify-self-start border-b border-neutral-400 px-4 pb-2 pt-1&quot;]/div[@class=&quot;flex flex-col justify-between md:flex-row&quot;]/div[@class=&quot;flex flex-col md:flex-row&quot;]/button[@class=&quot;group flex select-none items-center justify-center text-nowrap rounded-[8px] border border-solid text-center font-bold outline-none transition ease-in-out focus:shadow-[0_0_0_3px] [--color:theme(colors.navy.main)] [--dark-color:theme(colors.navy.dark)] focus:shadow-navy-main/40 border-transparent text-[--color] focus:border-transparent focus:text-[--dark-color] px-[16px] py-[8px] data-[pressed]:bg-navy-dark/20 hocus:bg-navy-dark/20&quot;]</value>
+      <webElementGuid>b70a303f-1a4f-47a9-85a3-7b633b18ab33</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[20]</value>
+      <webElementGuid>05ceacbe-97a5-494e-b646-aca1f1f62a86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Packet Information'])[1]/following::button[1]</value>
+      <webElementGuid>de386026-55b4-4dc7-883c-3aaa17811d7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::button[2]</value>
+      <webElementGuid>0e3ada67-1bf9-4681-9022-323c8eb99a8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LINE #'])[1]/preceding::button[3]</value>
+      <webElementGuid>31eaca49-0391-40b9-8292-e60d82bc9c46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HEAT #'])[2]/preceding::button[3]</value>
+      <webElementGuid>3141b7b4-aa86-47a8-917b-6ff74279c618</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Page']/parent::*</value>
+      <webElementGuid>0b414aa8-eb51-43a3-9e7d-ca4065fd298e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div[2]/button</value>
+      <webElementGuid>d2503d84-2a14-4063-9479-79c86bc841cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Add Page' or . = 'Add Page')]</value>
+      <webElementGuid>6829b258-7b44-40ff-a334-bad2fd044007</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

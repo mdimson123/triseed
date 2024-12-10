@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Next_flex items-center overflow-hidden _b27b4d</name>
+   <tag></tag>
+   <elementGuidId>a47903f3-a84c-4bc8-a8be-aa601a5c3980</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/section/div/form/div[2]/div/div[1]/div[2]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0205e7a7-912c-4cef-8e6f-ae6d0a4cfc8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Textfield input</value>
+      <webElementGuid>8dce29d4-362a-49c8-9c86-ac50e1e1b3b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center overflow-hidden rounded-[5px] border border-b-2 border-neutral-300 bg-white outline-none transition ease-in-out ring-0 ring-neutral-main/40</value>
+      <webElementGuid>fb32b420-3b83-402d-8764-b4cf8a7a616b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>group</value>
+      <webElementGuid>6283c352-2b2a-4b82-ad64-b445dd22f741</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hovered</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>0aa0b347-8fda-4f16-a9e9-b6cf68f0016b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;packet-details&quot;)/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;flex w-[320px] flex-col rounded-[10px] border border-neutral-300 bg-white px-[5px] py-[8px] shadow&quot;]/div[@class=&quot;flex flex-row space-x-3 px-4 py-[5px]&quot;]/div[@class=&quot;group flex flex-col&quot;]/div[1]/div[@class=&quot;group flex w-full flex-col&quot;]/div[@class=&quot;flex items-center overflow-hidden rounded-[5px] border border-b-2 border-neutral-300 bg-white outline-none transition ease-in-out ring-0 ring-neutral-main/40&quot;]</value>
+      <webElementGuid>095fea26-ded4-4a3a-91f8-ddd9b52119ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='packet-details']/div[2]/div/div[2]/div[2]/div/div/div</value>
+      <webElementGuid>255b6be7-a451-4433-a53d-f4d5032d6330</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[2]/following::div[12]</value>
+      <webElementGuid>e201e12f-340a-4d3b-9562-e7119b8527d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::div[1]</value>
+      <webElementGuid>0a3ea443-36be-485b-baab-1de25ddb7141</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save progress'])[1]/preceding::div[2]</value>
+      <webElementGuid>b93f3b74-cb73-4d05-ae23-51394b34edab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div</value>
+      <webElementGuid>360d3675-b47e-408c-ac27-d823f734e526</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

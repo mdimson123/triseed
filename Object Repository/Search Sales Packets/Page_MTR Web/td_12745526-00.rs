@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_12745526-00</name>
+   <tag></tag>
+   <elementGuidId>e59cc09c-f168-4984-bcbf-9fb4a08bee40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[28]/following::td[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>0021277d-3123-4d4b-b709-10359392cd99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative h-full min-h-[55px] items-center px-5 py-[5px] text-start font-normal</value>
+      <webElementGuid>258f1581-e0af-42ff-ab30-2d854f5ab034</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>12745526-00</value>
+      <webElementGuid>ddca8831-9c02-4894-9548-7fe352f5cc6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;fixed inset-0 z-[100000] flex min-h-full items-center justify-center overflow-y-auto bg-black/60 p-4 text-center&quot;]/div[@class=&quot;flex size-full w-full overflow-hidden rounded-[15px] bg-white p-[12px] text-left align-middle shadow-xl outline-none h-full max-w-[1350px] md:max-h-[85vh]&quot;]/section[@class=&quot;flex size-full flex-col outline-none&quot;]/div[@class=&quot;mt-2 flex h-full flex-1 flex-col overflow-y-hidden py-[5px]&quot;]/div[@class=&quot;mt-4 overflow-y-auto&quot;]/div[@class=&quot;flex flex-1 flex-col&quot;]/table[@class=&quot;w-full&quot;]/tbody[1]/tr[@class=&quot;last:border-b-none group min-h-[55px] border-b border-neutral-300 outline-none duration-75 hover:bg-blue-50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-blue-600&quot;]/td[@class=&quot;relative h-full min-h-[55px] items-center px-5 py-[5px] text-start font-normal&quot;]</value>
+      <webElementGuid>e39405e4-d151-4010-8bb8-6de9a2eb2b5d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[28]/following::td[1]</value>
+      <webElementGuid>a28049a7-2816-4960-a2ff-338fe044c489</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MARTIN MECHANICAL CORPORATION'])[1]/following::td[2]</value>
+      <webElementGuid>e6328351-061b-4fd0-a59a-9ffa750716f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View PDF'])[17]/preceding::td[2]</value>
+      <webElementGuid>1d1352b9-7b75-473f-ab9f-8a4b6058bd48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[29]/preceding::td[5]</value>
+      <webElementGuid>11c7848f-db42-4987-bdaf-a0f7c36b45d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='12745526-00']/parent::*</value>
+      <webElementGuid>e6974162-2f72-47c6-9a5c-320dc00ea657</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/table/tbody/tr[7]/td[5]</value>
+      <webElementGuid>c7f605a6-b850-4b73-8b09-ff04d9f76a8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '12745526-00' or . = '12745526-00')]</value>
+      <webElementGuid>246e700d-0087-4a2d-ad2c-9ca743630548</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

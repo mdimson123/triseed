@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_View PDF</name>
+   <tag></tag>
+   <elementGuidId>c09e4c5d-19cd-4c7d-b44a-3aab6cb68570</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[25]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2a13f0b2-f37b-414f-9a09-2ec452898172</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3303e174-2e15-4798-bb14-8f8d0015a3d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>View PDF button</value>
+      <webElementGuid>f634200d-b793-4264-91d3-24d508324e8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>group data-[selected=&quot;true&quot;]:border-[--dark-color] data-[selected=&quot;true&quot;]:bg-[--dark-color] text-lg flex select-none items-center justify-center text-nowrap rounded-[8px] border border-solid border-[--color] text-center outline-none transition ease-in-out focus:border-[--dark-color] focus:shadow-[0_0_0_3px] [--color:theme(colors.neutral.main)] [--dark-color:theme(colors.neutral.dark)] focus:shadow-neutral-main/40 bg-transparent hover:border-[--color] hover:bg-[--color] focus:text-[--dark-color] active:bg-[--dark-color] active:text-white hover-unfocus:text-white px-[8px] py-[3px] font-normal focus:bg-neutral-dark/20 text-blue-600</value>
+      <webElementGuid>a9ca824a-1db6-4f02-8a86-5da67eb8cfac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hovered</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>404980c9-ae0d-44c2-b6a7-a27720ea2a56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-focused</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>33594c0b-e984-4426-8ace-ca1d689970b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View PDF</value>
+      <webElementGuid>de58f2bd-f690-490d-b60f-2767c2c859cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;fixed inset-0 z-[100000] flex min-h-full items-center justify-center overflow-y-auto bg-black/60 p-4 text-center&quot;]/div[@class=&quot;flex size-full w-full overflow-hidden rounded-[15px] bg-white p-[12px] text-left align-middle shadow-xl outline-none h-full max-w-[1350px] md:max-h-[85vh]&quot;]/section[@class=&quot;flex size-full flex-col outline-none&quot;]/div[@class=&quot;mt-2 flex h-full flex-1 flex-col overflow-y-hidden py-[5px]&quot;]/div[@class=&quot;mt-4 overflow-y-auto&quot;]/div[@class=&quot;flex flex-1 flex-col&quot;]/table[@class=&quot;w-full&quot;]/tbody[1]/tr[@class=&quot;last:border-b-none group min-h-[55px] border-b border-neutral-300 outline-none duration-75 hover:bg-blue-50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-blue-600&quot;]/td[@class=&quot;relative h-full min-h-[55px] items-center px-5 py-[5px] text-start font-normal w-[145px]&quot;]/button[@class=&quot;group data-[selected=&quot;true&quot;]:border-[--dark-color] data-[selected=&quot;true&quot;]:bg-[--dark-color] text-lg flex select-none items-center justify-center text-nowrap rounded-[8px] border border-solid border-[--color] text-center outline-none transition ease-in-out focus:border-[--dark-color] focus:shadow-[0_0_0_3px] [--color:theme(colors.neutral.main)] [--dark-color:theme(colors.neutral.dark)] focus:shadow-neutral-main/40 bg-transparent hover:border-[--color] hover:bg-[--color] focus:text-[--dark-color] active:bg-[--dark-color] active:text-white hover-unfocus:text-white px-[8px] py-[3px] font-normal focus:bg-neutral-dark/20 text-blue-600&quot;]</value>
+      <webElementGuid>69870d85-0f9d-4040-8ebf-f8fc49e8b0a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[25]</value>
+      <webElementGuid>f5bfcc9f-23fe-4c06-a23a-505f11b3fba6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[19]/following::button[1]</value>
+      <webElementGuid>ff0c3138-55f2-424c-9822-c2694a4c7198</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HARMONY METAL FABRICATORS'])[1]/following::button[1]</value>
+      <webElementGuid>cb7e5c6c-a32b-469e-8c6d-199aa3b761bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GRUNAU COMPANY, INC.'])[1]/preceding::button[2]</value>
+      <webElementGuid>ec1749b9-541e-4889-ae12-9006e3d0f5f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View PDF'])[12]/preceding::button[2]</value>
+      <webElementGuid>9d3b2a2e-4e57-4a16-90e8-9446133d29b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/button</value>
+      <webElementGuid>ef8a492a-2cbf-4699-a78d-8bfedcdc9813</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'View PDF' or . = 'View PDF')]</value>
+      <webElementGuid>0f4dca0a-f0b2-4313-852f-4fa61339be74</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

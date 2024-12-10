@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_11798333-01</name>
+   <tag></tag>
+   <elementGuidId>84c48fc4-0bb0-4acd-844f-58d12cc5827c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='downshift-:r4t:-item-0']/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.flex-col > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c7f728a2-4f50-439d-a74a-03cb52363b4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>11798333-01</value>
+      <webElementGuid>2c025bcd-490c-4826-aa77-3cbee7bb64ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;downshift-:r4t:-item-0&quot;)/div[@class=&quot;flex flex-col&quot;]/span[1]</value>
+      <webElementGuid>2cb80857-0a98-413e-822e-9f0cacfd4f80</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='downshift-:r4t:-item-0']/div/span</value>
+      <webElementGuid>65d37029-1b6a-4fe4-aaff-0d91679acd67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Generate'])[1]/following::span[3]</value>
+      <webElementGuid>b29367fb-ba85-4f96-9f77-67410c9d734e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save progress'])[1]/following::span[3]</value>
+      <webElementGuid>ab7ddbed-24cd-47e4-9952-ed0e8a41c636</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='11798333-01']/parent::*</value>
+      <webElementGuid>1b6d6eba-b49a-4974-bb63-f7ac524dc3aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/span</value>
+      <webElementGuid>4c4e1243-92fb-47e6-b6f2-cfc994613a64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '11798333-01' or . = '11798333-01')]</value>
+      <webElementGuid>1674bb74-fdd8-4881-b3cb-b89fb2024d81</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

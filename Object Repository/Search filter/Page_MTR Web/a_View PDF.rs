@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View PDF</name>
+   <tag></tag>
+   <elementGuidId>2aaf33ee-64a2-4358-9722-18facd8d8530</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div/table/tbody/tr/td[11]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3eaf2802-a657-4eab-a6be-ee960eedcdac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex select-none items-center justify-center text-nowrap rounded-[8px] border border-solid border-[--color] text-center outline-none transition ease-in-out focus:border-[--dark-color] focus:shadow-[0_0_0_3px] [--color:theme(colors.neutral.main)] [--dark-color:theme(colors.neutral.dark)] focus:shadow-neutral-main/40 bg-transparent hover:border-[--color] hover:bg-[--color] focus:text-[--dark-color] active:bg-[--dark-color] active:text-white hover-unfocus:text-white px-[8px] py-[3px] font-normal focus:bg-neutral-dark/20 text-blue-600</value>
+      <webElementGuid>12952a02-2c5b-450c-87c2-f13ca6bb1ebb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>View PDF button</value>
+      <webElementGuid>24e5da93-f52c-4fe1-9ec0-dc1ada3b5331</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://idm.inforcloudsuite.com/ca/api/resources/MTR-102924-1-LATEST?$token=AV9Nv8a0H7vLIhjPK%2FHWrR7MaKnfN7XhzhG8pl31EpIAmywh24ZhTy7jEkYxLYcQvLo8HjQikg9qwMZhMFueSC75vG9FopxGH13E4n4pTDolcrXAC4cAaEmw7mQBtl%2FHE8dO0VjSySnkTg17hOhP2l9Eg4VNyVLHcAB6mlCmJnqqgHH1JNWSOgBY0Tisw51yl5gLtcbgfyOX5hMxw0JVFqeT0OEYqkmCduYKS9JlbWxg0o+%2Fwv7tuksmMdZAUJnFs6Im5yfBr7VtyzajwDDzJS+31CEm0+VBz4bRffR9&amp;$tenant=PORTERPIPE_TST</value>
+      <webElementGuid>4988c301-1471-494a-b2a8-e224dd14a3b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>2c268957-71c5-4cc3-9825-12ea3c6e9407</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hovered</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>1099e86b-735c-4904-bf43-97d0d252de86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-focused</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c82eef3b-045e-4128-8898-d99534b95077</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View PDF</value>
+      <webElementGuid>e9d9fc67-e3a8-4c3a-8198-f1836ae2ad3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex size-full min-h-screen flex-col bg-neutral-100&quot;]/div[@class=&quot;flex flex-1 flex-col items-stretch justify-center md:flex-row&quot;]/div[@class=&quot;flex w-full max-w-[1650px] flex-1 flex-col px-[10px] py-[30px]&quot;]/div[@class=&quot;mt-6 w-full overflow-x-auto rounded-2xl border bg-white px-[20px] py-6 shadow&quot;]/div[@class=&quot;flex flex-1 flex-col&quot;]/table[@class=&quot;w-full&quot;]/tbody[1]/tr[@class=&quot;last:border-b-none group min-h-[55px] border-b border-neutral-300 outline-none duration-75 hover:bg-blue-50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-blue-600&quot;]/td[@class=&quot;relative h-full min-h-[55px] items-center px-5 py-[5px] text-start font-normal&quot;]/a[@class=&quot;flex select-none items-center justify-center text-nowrap rounded-[8px] border border-solid border-[--color] text-center outline-none transition ease-in-out focus:border-[--dark-color] focus:shadow-[0_0_0_3px] [--color:theme(colors.neutral.main)] [--dark-color:theme(colors.neutral.dark)] focus:shadow-neutral-main/40 bg-transparent hover:border-[--color] hover:bg-[--color] focus:text-[--dark-color] active:bg-[--dark-color] active:text-white hover-unfocus:text-white px-[8px] py-[3px] font-normal focus:bg-neutral-dark/20 text-blue-600&quot;]</value>
+      <webElementGuid>12c6251d-f6c1-436a-9958-1221787e8e2b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/table/tbody/tr/td[11]/a</value>
+      <webElementGuid>ca442aa7-d37f-452e-a1c2-00d42a02fde3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View PDF')]</value>
+      <webElementGuid>e7844927-a668-425d-9055-6893a1cb585d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='C1153'])[1]/following::a[1]</value>
+      <webElementGuid>7f62558f-0add-4382-bca3-46c17225610e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[1]/following::a[1]</value>
+      <webElementGuid>5c68aabf-f209-4e93-b438-2217ee89649c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/preceding::a[1]</value>
+      <webElementGuid>0116ca6f-d534-47b3-b4f6-60a413bd55e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View PDF']/parent::*</value>
+      <webElementGuid>1781ba62-ac81-431f-ac7f-6a98d36b8d0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://idm.inforcloudsuite.com/ca/api/resources/MTR-102924-1-LATEST?$token=AV9Nv8a0H7vLIhjPK%2FHWrR7MaKnfN7XhzhG8pl31EpIAmywh24ZhTy7jEkYxLYcQvLo8HjQikg9qwMZhMFueSC75vG9FopxGH13E4n4pTDolcrXAC4cAaEmw7mQBtl%2FHE8dO0VjSySnkTg17hOhP2l9Eg4VNyVLHcAB6mlCmJnqqgHH1JNWSOgBY0Tisw51yl5gLtcbgfyOX5hMxw0JVFqeT0OEYqkmCduYKS9JlbWxg0o+%2Fwv7tuksmMdZAUJnFs6Im5yfBr7VtyzajwDDzJS+31CEm0+VBz4bRffR9&amp;$tenant=PORTERPIPE_TST')]</value>
+      <webElementGuid>3b2e05b8-24c2-4db6-80cb-05c35883b1e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[11]/a</value>
+      <webElementGuid>d1eb38dc-f0bf-4443-91d9-c9fc79c4bd9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://idm.inforcloudsuite.com/ca/api/resources/MTR-102924-1-LATEST?$token=AV9Nv8a0H7vLIhjPK%2FHWrR7MaKnfN7XhzhG8pl31EpIAmywh24ZhTy7jEkYxLYcQvLo8HjQikg9qwMZhMFueSC75vG9FopxGH13E4n4pTDolcrXAC4cAaEmw7mQBtl%2FHE8dO0VjSySnkTg17hOhP2l9Eg4VNyVLHcAB6mlCmJnqqgHH1JNWSOgBY0Tisw51yl5gLtcbgfyOX5hMxw0JVFqeT0OEYqkmCduYKS9JlbWxg0o+%2Fwv7tuksmMdZAUJnFs6Im5yfBr7VtyzajwDDzJS+31CEm0+VBz4bRffR9&amp;$tenant=PORTERPIPE_TST' and (text() = 'View PDF' or . = 'View PDF')]</value>
+      <webElementGuid>3f0730aa-6249-42ba-819a-7e9fa4d228a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
