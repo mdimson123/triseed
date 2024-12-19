@@ -16,24 +16,10 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
+import com.kms.katalon.core.configuration.RunConfiguration as RunConfiguration
 
-WebUI.openBrowser('')
-
-WebUI.maximizeWindow()
-
-WebUI.navigateToUrl('https://marketing-app.dev.porterpipe.com/dashboard')
-
-WebUI.setText(findTestObject('Object Repository/Adding In Ad Calendar/Page_Sign in to your account/input_Sign in_loginfmt'), 
-    'lpangan@porterpipe.com')
-
-WebUI.click(findTestObject('Object Repository/Adding In Ad Calendar/Page_Sign in to your account/input_Sign in_idSIButton9'))
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Adding In Ad Calendar/Page_Sign in to your account/input_Enter password_passwd'), 
-    'NZzDLtg5iKQPWnifuqC+Cw==')
-
-WebUI.click(findTestObject('Adding In Ad Calendar/Page_Sign in to your account/input_Sign in_idSIButton9'))
-
-WebUI.click(findTestObject('Object Repository/Adding In Ad Calendar/Page_Sign in to your account/input_Sign in_idSIButton9'))
+WebUI.callTestCase(findTestCase('Login/Login porterpipe/Login'), [:], FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Adding In Ad Calendar/Page_Pipeline Marketing/span_Ad Calendar'))
 
@@ -47,30 +33,37 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Adding In Ad Calenda
 WebUI.setText(findTestObject('Object Repository/Adding In Ad Calendar/Page_Pipeline Marketing/input_Sequence_sequence'), 
     '1')
 
-WebUI.click(findTestObject('Adding In Ad Calendar/Page_Pipeline Marketing/div_Drag and drop or browse from File Manager to upload'))
+//WebUI.click(findTestObject('Ad Campaign/Page_Pipeline Marketing/Upload File'))
+//
+//WebUI.uploadFile(findTestObject('Object Repository/YourFileInputObject'), 'C:\\Users\\New User\\git\\triseed2\\UploadFiles\\Screenshot_1.png')
+/////Try
+//WebUI.click(findTestObject('Object Repository/Ad Campaign/Page_Pipeline Marketing/span_Drag and drop or browse from File Mana_afac7e'))
+String projectDir = RunConfiguration.getProjectDir()
 
-WebUI.uploadFile(findTestObject('Object Repository/YourFileInputObject'), 'C:\\Users\\New User\\git\\triseed2\\UploadFiles\\Screenshot_1.png')
+String filePath = projectDir + '/UploadFiles/Screenshot_1.png'
 
-WebUI.click(findTestObject('Object Repository/Adding In Ad Calendar/Page_Pipeline Marketing/button_Ad Type_h-6 flex-1 transition-all ho_429c80'))
+TestObject fileInput = findTestObject('Object Repository/Page_Pipeline Marketing/Upload File')
 
-WebUI.click(findTestObject('Object Repository/Adding In Ad Calendar/Page_Pipeline Marketing/span_Drag and drop or browse from File Mana_afac7e'))
+WebUI.sendKeys(fileInput, filePath)
 
+WebUI.click(findTestObject('Object Repository/Page_Pipeline Marketing/button_Crop'))
+
+//WebUI.click(findTestObject('Object Repository/Adding In Ad Calendar/Page_Pipeline Marketing/button_Ad Type_h-6 flex-1 transition-all ho_429c80'))
+//
+//WebUI.click(findTestObject('Object Repository/Adding In Ad Calendar/Page_Pipeline Marketing/span_Drag and drop or browse from File Mana_afac7e'))
 WebUI.setText(findTestObject('Object Repository/Adding In Ad Calendar/Page_Pipeline Marketing/input_Start Date_startDate'), 
-    '25112024')
+    '25012025')
 
 WebUI.setText(findTestObject('Object Repository/Adding In Ad Calendar/Page_Pipeline Marketing/input_Start Time_startTime'), 
     '12001')
 
 WebUI.setText(findTestObject('Object Repository/Adding In Ad Calendar/Page_Pipeline Marketing/textarea_Notes_note'), 'test note')
 
-WebUI.click(findTestObject('Object Repository/Adding In Ad Calendar/Page_Pipeline Marketing/div_Drag and drop or browse from File Manag_003297'))
-
+//WebUI.click(findTestObject('Object Repository/Adding In Ad Calendar/Page_Pipeline Marketing/div_Drag and drop or browse from File Manag_003297'))
 WebUI.click(findTestObject('Object Repository/Adding In Ad Calendar/Page_Pipeline Marketing/button_Save'))
 
-WebUI.click(findTestObject('Object Repository/Adding In Ad Calendar/Page_Pipeline Marketing/button_Crop'))
-
-WebUI.click(findTestObject('Object Repository/Adding In Ad Calendar/Page_Pipeline Marketing/button_Save'))
-
+//WebUI.click(findTestObject('Object Repository/Adding In Ad Calendar/Page_Pipeline Marketing/button_Crop'))
+//WebUI.click(findTestObject('Object Repository/Adding In Ad Calendar/Page_Pipeline Marketing/button_Save'))
 WebUI.click(findTestObject('Object Repository/Adding In Ad Calendar/Page_Pipeline Marketing/button_Close'))
 
 WebUI.closeBrowser()

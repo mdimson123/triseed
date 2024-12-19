@@ -17,23 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.maximizeWindow()
-
-WebUI.navigateToUrl('https://marketing-app.dev.porterpipe.com/dashboard')
-
-WebUI.setText(findTestObject('Object Repository/Go to Ad Calendar/Page_Sign in to your account/input_Sign in_loginfmt'), 
-    'lpangan@porterpipe.com')
-
-WebUI.click(findTestObject('Object Repository/Go to Ad Calendar/Page_Sign in to your account/input_Sign in_idSIButton9'))
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Go to Ad Calendar/Page_Sign in to your account/input_Enter password_passwd'), 
-    'NZzDLtg5iKQPWnifuqC+Cw==')
-
-WebUI.click(findTestObject('Object Repository/Go to Ad Calendar/Page_Sign in to your account/input_Sign in_idSIButton9'))
-
-WebUI.click(findTestObject('Object Repository/Go to Ad Calendar/Page_Sign in to your account/input_Sign in_idSIButton9'))
+WebUI.callTestCase(findTestCase('Login/Login porterpipe/Login'), [:], FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.waitForElementPresent(findTestObject('Object Repository/Go to Ad Calendar/Page_Pipeline Marketing/h1_Welcome to Grafana'), 
     5)

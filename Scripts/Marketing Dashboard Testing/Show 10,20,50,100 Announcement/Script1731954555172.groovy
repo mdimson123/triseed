@@ -17,21 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://marketing-app.dev.porterpipe.com/')
-
-WebUI.setText(findTestObject('Object Repository/Show 10,20,50,100 Announcement/Page_Sign in to your account/input_Sign in_loginfmt'), 
-    'lpangan@porterpipe.com')
-
-WebUI.click(findTestObject('Object Repository/Show 10,20,50,100 Announcement/Page_Sign in to your account/input_Sign in_idSIButton9'))
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Show 10,20,50,100 Announcement/Page_Sign in to your account/input_Enter password_passwd'), 
-    'NZzDLtg5iKQPWnifuqC+Cw==')
-
-WebUI.click(findTestObject('Object Repository/Show 10,20,50,100 Announcement/Page_Sign in to your account/input_Sign in_idSIButton9'))
-
-WebUI.click(findTestObject('Object Repository/Show 10,20,50,100 Announcement/Page_Sign in to your account/input_Sign in_idSIButton9'))
+WebUI.callTestCase(findTestCase('Login/Login porterpipe/Login'), [:], FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Show 10,20,50,100 Announcement/Page_Pipeline Marketing/a_Announcement'))
 

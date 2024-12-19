@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div/div/div[2]/div[2]/div/div/div[2]/div[8]/div[2]/div[2]/div[1]/div[3]/div/div/div[2]/div</value>
+         <value>/html/body/div/div/div[2]/div[2]/div/div/div[2]/div[8]/div[2]/div[2]/div[1]/div[3]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>bc424ede-d4b0-4e1f-8f7a-1631ad71bc14</webElementGuid>
+      <webElementGuid>658355e0-ff8e-485e-9fb7-9d4069b2288e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Test Automation</value>
-      <webElementGuid>56073653-d057-474a-b5fd-3beeb8549670</webElementGuid>
+      <webElementGuid>e9fab3e6-5c4f-4e1f-b5b4-4f1ed8dbd6ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;flex h-full min-h-screen grow flex-col&quot;]/div[@class=&quot;flex size-full grow flex-col&quot;]/div[@class=&quot;w-full px-[30px] py-10&quot;]/div[@class=&quot;rbc-addons-dnd rbc-calendar&quot;]/div[@class=&quot;rbc-month-view&quot;]/div[@class=&quot;rbc-month-row&quot;]/div[@class=&quot;rbc-row-content&quot;]/div[@class=&quot;rbc-addons-dnd-row-body&quot;]/div[@class=&quot;rbc-row&quot;]/div[@class=&quot;rbc-row-segment&quot;]/div[@class=&quot;rbc-event important&quot;]/div[@class=&quot;rbc-addons-dnd-resizable&quot;]/div[@class=&quot;rbc-event-content&quot;]/div[@class=&quot;_container_1ra9z_5&quot;]/span[1]</value>
-      <webElementGuid>e180a37c-b331-41b6-b284-7972c10d5af8</webElementGuid>
+      <webElementGuid>b77a48ab-5c82-4cbc-825e-478d80c6eec9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[2]/div[10]/div[2]/div[2]/div/div[3]/div/div/div[2]/div/span</value>
-      <webElementGuid>9eb153d9-462b-48f9-b2b0-9b0b5045a254</webElementGuid>
+      <webElementGuid>ac61dcf4-37fd-478c-b551-d237584f4e1f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Automation'])[1]/following::span[1]</value>
-      <webElementGuid>8a234ffa-82da-4692-b556-957bcc9de7c1</webElementGuid>
+      <webElementGuid>34291908-428f-48bb-b90a-33f221eb09f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[3]/following::span[2]</value>
-      <webElementGuid>5bb04b36-4ea9-4058-8310-fdee1a768f21</webElementGuid>
+      <webElementGuid>e580dee7-6049-4bc7-9404-1364454111e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='November'])[2]/preceding::span[1]</value>
-      <webElementGuid>60dd34b7-3fe6-4f17-acf3-6f0acf996a1c</webElementGuid>
+      <webElementGuid>7c750c53-673a-411c-a0a2-bc79e395dbd9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Note:'])[1]/preceding::span[2]</value>
-      <webElementGuid>b78e6c85-cb84-45b6-93e8-c6b34127a96e</webElementGuid>
+      <webElementGuid>cb661fa7-28a5-45a9-b263-849329947df4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[10]/div[2]/div[2]/div/div[3]/div/div/div[2]/div/span</value>
-      <webElementGuid>756a9838-051d-4673-aab3-475ad59a4fee</webElementGuid>
+      <webElementGuid>23848691-2b41-481c-8964-09ff2dee6f32</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Test Automation' or . = 'Test Automation')]</value>
-      <webElementGuid>08d9762a-1043-417d-846e-2c95fce68dd3</webElementGuid>
+      <webElementGuid>7a6b8f92-dcb7-4821-9e41-65571c23334b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

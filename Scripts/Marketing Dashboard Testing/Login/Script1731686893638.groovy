@@ -37,5 +37,3 @@ WebUI.click(findTestObject('Object Repository/TryMarketingDashboard/Page_Sign in
 
 WebUI.delay(10)
 
-WebUI.closeBrowser()
-

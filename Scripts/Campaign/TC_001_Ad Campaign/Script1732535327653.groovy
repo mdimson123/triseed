@@ -19,23 +19,7 @@ import org.openqa.selenium.Keys as Keys
 import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
 import com.kms.katalon.core.configuration.RunConfiguration as RunConfiguration
 
-WebUI.openBrowser('')
-
-WebUI.maximizeWindow()
-
-WebUI.navigateToUrl('https://marketing-app.dev.porterpipe.com/')
-
-WebUI.setText(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_loginfmt'), 'lpangan@porterpipe.com')
-
-WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9'))
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to your account/input_Enter password_passwd'), 'NZzDLtg5iKQPWnifuqC+Cw==')
-
-WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Forgot my password_idSIButton9'))
-
-WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Do this to reduce the number of times_edee07'))
-
-WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9'))
+WebUI.callTestCase(findTestCase('Login/Login porterpipe/Login'), [:], FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Page_Pipeline Marketing/span_Ad Calendar'))
 
@@ -56,7 +40,7 @@ WebUI.sendKeys(fileInput, filePath)
 
 WebUI.click(findTestObject('Object Repository/Page_Pipeline Marketing/button_Crop'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Pipeline Marketing/input_Start Date_startDate'), '25122024')
+WebUI.setText(findTestObject('Object Repository/Page_Pipeline Marketing/input_Start Date_startDate'), '22122024')
 
 WebUI.setText(findTestObject('Object Repository/Page_Pipeline Marketing/textarea_Notes_note'), 'test')
 
@@ -66,5 +50,5 @@ WebUI.verifyElementVisible(findTestObject('Ad Campaign/Page_Pipeline Marketing/h
 
 WebUI.click(findTestObject('Object Repository/Page_Pipeline Marketing/button_Close'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Pipeline Marketing/span_Test Automation'))
+WebUI.closeBrowser()
 

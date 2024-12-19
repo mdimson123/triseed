@@ -17,30 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.maximizeWindow()
-
-WebUI.navigateToUrl('https://marketing-app.dev.porterpipe.com/')
-
-WebUI.setText(findTestObject('Object Repository/Delete/Page_Sign in to your account/input_Sign in_loginfmt'), 'lpangan@porterpipe.com')
-
-WebUI.click(findTestObject('Object Repository/Delete/Page_Sign in to your account/input_Sign in_idSIButton9'))
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Delete/Page_Sign in to your account/input_Enter password_passwd'), 
-    'NZzDLtg5iKQPWnifuqC+Cw==')
-
-WebUI.click(findTestObject('Object Repository/Delete/Page_Sign in to your account/input_Sign in_idSIButton9'))
-
-WebUI.click(findTestObject('Object Repository/Delete/Page_Sign in to your account/input_Do this to reduce the number of times_edee07'))
-
-WebUI.click(findTestObject('Object Repository/Delete/Page_Sign in to your account/input_Sign in_idSIButton9'))
+WebUI.callTestCase(findTestCase('Login/Login porterpipe/Login'), [:], FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Delete/Page_Pipeline Marketing/a_Ad Calendar'))
 
-WebUI.scrollToElement(findTestObject('Page_Pipeline Marketing/span_Test Automation (1)'), -50)
+WebUI.scrollToElement(findTestObject('DragObject/Page_Pipeline Marketing/DragItem'), -50)
 
-WebUI.click(findTestObject('Page_Pipeline Marketing/span_Test Automation (1)'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('DragObject/Page_Pipeline Marketing/DragItem'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Delete/Page_Pipeline Marketing/button___button_1ozih_78'))
 

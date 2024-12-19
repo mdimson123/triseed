@@ -17,34 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.maximizeWindow()
-
-WebUI.navigateToUrl('https://marketing-app.dev.porterpipe.com/')
-
-WebUI.setText(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_loginfmt (2)'), 'lpangan@porterpipe.com')
-
-WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (2)'))
-
-WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/div_Enter password'))
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to your account/input_Enter password_passwd (2)'), 
-    'NZzDLtg5iKQPWnifuqC+Cw==')
-
-WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (2)'))
-
-WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Do this to reduce the number of times_edee07 (2)'))
-
-WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9 (2)'))
+WebUI.callTestCase(findTestCase('Login/Login porterpipe/Login'), [:], FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/DragObject/Page_Pipeline Marketing/a_Ad Calendar'))
+
+WebUI.scrollToElement(findTestObject('DragObject/Page_Pipeline Marketing/DragItem'), -50)
 
 //WebUI.dragAndDropToObject(findTestObject('Object Repository/DragObject/Page_Pipeline Marketing/div_Qa Nov 4'), findTestObject(
 //        null))
 TestObject draggableObject = findTestObject('Object Repository/DragObject/Page_Pipeline Marketing/DragItem')
 
 WebUI.dragAndDropByOffset(draggableObject, 250, 0)
-
-WebUI.click(findTestObject('Object Repository/DragObject/Page_Pipeline Marketing/div__rbc-row-segment'))
 

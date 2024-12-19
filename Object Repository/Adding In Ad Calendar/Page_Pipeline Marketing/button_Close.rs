@@ -6,12 +6,11 @@
    <elementGuidId>edef06b4-35f4-4978-9765-b0f0365e0ca6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div[2]/button[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[43]</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b28fec35-e8a2-44e0-bb21-789a0b7354ff</webElementGuid>
+      <webElementGuid>707441a5-209e-4ee1-b575-f29bab77ca62</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>db3aa07e-29f1-4361-a3db-584bc0d91cd0</webElementGuid>
+      <webElementGuid>684c4952-b43e-4cff-83d4-8a1a40188089</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Close</value>
-      <webElementGuid>c4829282-2769-47ba-ae86-7cc60a5ee9ee</webElementGuid>
+      <webElementGuid>8ad4d627-10ad-43c7-99f7-1eac2df066b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;radix-:r1j:&quot;)/div[@class=&quot;grid h-14 w-full grid-cols-2 justify-center divide-x-2 divide-white bg-[#F8FAFB]&quot;]/button[2]</value>
-      <webElementGuid>7d45704e-1316-4b38-b483-ab199912dcd6</webElementGuid>
+      <webElementGuid>081eae38-2855-4284-9ea0-fe83cd83ff49</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +54,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[43]</value>
-      <webElementGuid>2036b3cf-48ee-4235-bfab-075367f2014d</webElementGuid>
+      <webElementGuid>d8e2f0e3-b09a-40c4-9502-1ddea88e1dde</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-:r1j:']/div[2]/button[2]</value>
-      <webElementGuid>cbd5261b-8fad-46f6-8d79-7b18b6ed9ebe</webElementGuid>
+      <webElementGuid>4939c219-422e-4290-ba1e-fdda6d50c0e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New'])[1]/following::button[1]</value>
-      <webElementGuid>b5241a32-c9d8-4382-85f8-49ab82489cb1</webElementGuid>
+      <webElementGuid>7bd1fceb-fd1b-4c27-b1e2-6f3232a825db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Campaign Added'])[1]/following::button[2]</value>
-      <webElementGuid>4d159756-953e-4ba6-9a0c-9e4f9271e9d2</webElementGuid>
+      <webElementGuid>36c6f4a4-0f4b-4d13-9588-2ecf7dc1c6cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Close']/parent::*</value>
-      <webElementGuid>1e8b256f-ad99-4b2c-8e4d-f92f40e65bb4</webElementGuid>
+      <webElementGuid>ab5fd3a8-aa28-4bdb-8636-164b14515667</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button[2]</value>
-      <webElementGuid>d403ce7d-cc41-43f1-9afc-f6fc8065637b</webElementGuid>
+      <webElementGuid>2ba2f986-6d32-4272-8ce6-d505d16da72c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Close' or . = 'Close')]</value>
-      <webElementGuid>1af00bc1-7a30-4caa-a7a0-27da0aaa4bfa</webElementGuid>
+      <webElementGuid>43ac22eb-5331-4d59-aa2a-2a216af0aea0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

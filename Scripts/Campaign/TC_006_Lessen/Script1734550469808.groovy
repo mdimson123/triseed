@@ -17,21 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://katalon-demo-cura.herokuapp.com/')
+WebUI.callTestCase(findTestCase('Login/Login porterpipe/Login'), [:], FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('TC_02 Manual/Page_CURA Healthcare Service/a_Make Appointment'))
+WebUI.click(findTestObject('Object Repository/DragObject/Page_Pipeline Marketing/a_Ad Calendar'))
 
-WebUI.setText(findTestObject('TC_02 Manual/Page_CURA Healthcare Service/input_Username_username'), 'John Doe')
+WebUI.scrollToElement(findTestObject('update/scroll'), -50)
 
-WebUI.setText(findTestObject('TC_02 Manual/Page_CURA Healthcare Service/input_Password_password'), 'ThisIsNotAPassword')
+//WebUI.dragAndDropToObject(findTestObject('Object Repository/DragObject/Page_Pipeline Marketing/div_Qa Nov 4'), findTestObject(
+//        null))
+TestObject draggableObject = findTestObject('Object Repository/DragObject/Page_Pipeline Marketing/ExtendItem')
 
-WebUI.click(findTestObject('TC_02 Manual/Page_CURA Healthcare Service/button_Login'))
-
-WebUI.verifyElementPresent(findTestObject('TC_02 Manual/Page_CURA Healthcare Service/h2_Make Appointment'), 0)
-
-WebUI.back()
-
-WebUI.click(findTestObject('TC_02 Manual/Page_CURA Healthcare Service/a_Logout'))
-
-WebUI.closeBrowser()
+WebUI.dragAndDropByOffset(draggableObject, -250, 0)
 

@@ -6,12 +6,12 @@
    <elementGuidId>a6998385-9854-442e-98c6-22ceec982f56</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>svg.size-8.text-white</value>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div[2]/div[2]/div/div/div[1]/div[2]/button</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='November'])[1]/following::*[name()='svg'][2]</value>
+         <key>CSS</key>
+         <value>svg.size-8.text-white</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>558d2863-6e5e-4952-9fce-82646ea4beea</webElementGuid>
+      <webElementGuid>caf6c989-8f9d-48cd-a8ae-78ae36cfb196</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>width</name>
       <type>Main</type>
       <value>15</value>
-      <webElementGuid>efca914b-6028-4c00-bef9-fa3b75d92154</webElementGuid>
+      <webElementGuid>a375ac9d-a95e-4722-9a6b-782ac5c502ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>height</name>
       <type>Main</type>
       <value>15</value>
-      <webElementGuid>6ce4c8a0-af79-4c5c-9ff2-ecce2893badb</webElementGuid>
+      <webElementGuid>b9b2536e-9f3d-43aa-b5a3-d89b1e2f6ec3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 15 15</value>
-      <webElementGuid>f5b74550-3cf0-4645-96c0-eb825b001c18</webElementGuid>
+      <webElementGuid>19b8cd83-e815-4ca1-8615-c8c8df4c1121</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>fill</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>b481ea05-5e16-4421-b04e-14a4d56abcbb</webElementGuid>
+      <webElementGuid>4669b95e-d10c-489f-bd7c-c25f89b37efc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xmlns</name>
       <type>Main</type>
       <value>http://www.w3.org/2000/svg</value>
-      <webElementGuid>dea7057b-d5a2-49cb-afec-07d11014432e</webElementGuid>
+      <webElementGuid>f7c26d91-a1e5-480b-85e2-e8b4d8b96c56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>class</name>
       <type>Main</type>
       <value>size-8 text-white</value>
-      <webElementGuid>1a239034-6f06-4fb0-8ef0-80159dd43d86</webElementGuid>
+      <webElementGuid>0d99fd9e-7133-4c0d-8435-e3af41639104</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>stroke-width</name>
       <type>Main</type>
       <value>8</value>
-      <webElementGuid>e030bb58-a7e7-4329-a220-5f68a44fb301</webElementGuid>
+      <webElementGuid>6e874354-4d37-423a-9828-8b927cfd4085</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;flex h-full min-h-screen grow flex-col&quot;]/div[@class=&quot;flex size-full grow flex-col&quot;]/div[@class=&quot;w-full px-[30px] py-10&quot;]/div[@class=&quot;rbc-addons-dnd rbc-calendar&quot;]/div[@class=&quot;mb-5 flex flex-row items-center justify-between&quot;]/div[@class=&quot;flex flex-row space-x-5&quot;]/button[@class=&quot;inline-flex items-center justify-center whitespace-nowrap text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 text-primary-foreground size-[42px] rounded-full bg-[#002a86] p-[8px] shadow-lg hover:bg-[#042367]&quot;]/svg[@class=&quot;size-8 text-white&quot;]</value>
-      <webElementGuid>fb1d9341-7d15-4950-bc43-4416b1980d0c</webElementGuid>
+      <webElementGuid>2f2f75d0-8cec-4719-8233-be742ed37222</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='November'])[1]/following::*[name()='svg'][2]</value>
-      <webElementGuid>54e8a5bc-2ca9-415f-8ac9-0151e15c8caa</webElementGuid>
+      <webElementGuid>0c413e76-73a2-4b82-9cce-b41cfa6a4b96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='day'])[1]/following::*[name()='svg'][3]</value>
-      <webElementGuid>c9c0e239-9c7e-4b31-aeaf-bb5a67429840</webElementGuid>
+      <webElementGuid>90e7a0f3-2e7e-4ab0-9d5f-bf305e5deda9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sunday'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>2c616efa-d665-4163-b3ee-1e16013c10ba</webElementGuid>
+      <webElementGuid>090440d4-7420-40d0-955a-d17a52b7b7f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,6 +119,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Monday'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>674d30a6-2c3e-4de2-9012-644f05917f1d</webElementGuid>
+      <webElementGuid>07cdb4ea-0b0e-4274-a6b4-d4cf61294fb5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
